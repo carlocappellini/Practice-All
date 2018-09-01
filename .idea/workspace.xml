@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2402ded2-ffbe-4194-b4a7-69c7854ccdbd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/carlocappellini/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/carlocappellini/Saveable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/carlocappellini/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/carlocappellini/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,8 +17,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/carlocappellini/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+            <state relative-caret-position="153">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -90,9 +85,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="286" />
-    <option name="y" value="124" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-39" />
+    <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="752" />
   </component>
@@ -170,16 +165,23 @@
       <option name="presentableId" value="Default" />
       <updated>1535339503386</updated>
       <workItem from="1535339505118" duration="4000" />
-      <workItem from="1535339518826" duration="788000" />
+      <workItem from="1535339518826" duration="1083000" />
     </task>
+    <task id="LOCAL-00001" summary="Interfaces Saving game objects functions">
+      <created>1535340410432</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1535340410432</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="792000" />
+    <option name="totallyTimeSpent" value="1087000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="752" extended-state="6" />
-    <editor active="true" />
+    <frame x="-62" y="26" width="1280" height="752" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -190,9 +192,9 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32911393" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32911393" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32911393" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32911393" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
@@ -216,6 +218,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Interfaces Saving game objects functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Interfaces Saving game objects functions" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/carlocappellini/Main.java">
@@ -247,8 +253,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/carlocappellini/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
