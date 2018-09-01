@@ -1,12 +1,12 @@
 package com.carlocappellini;
 
-import java.util.LinkedList;
+import org.w3c.dom.ls.LSInput;
+
+import java.util.List;
 
 public abstract class ListItem {
-
-    protected ListItem nextLink;
-
-    protected ListItem previousLink;
+    protected ListItem nextLink = null;
+    protected ListItem previousLink = null;
 
     protected Object value;
 
@@ -21,10 +21,16 @@ public abstract class ListItem {
     public void setValue(Object value) {
         this.value = value;
     }
+
     abstract ListItem next();
+
     abstract ListItem setNext(ListItem item);
+
     abstract ListItem previous();
+
     abstract ListItem setPrevious(ListItem item);
-    abstract boolean compareTo();
+
+    abstract int compareTo(ListItem item);
+
 
 }

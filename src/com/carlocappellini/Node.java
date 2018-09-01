@@ -1,6 +1,8 @@
 package com.carlocappellini;
 
 public class Node extends ListItem {
+    Node root;
+
 
     public Node(Object value) {
         super(value);
@@ -29,7 +31,15 @@ public class Node extends ListItem {
     }
 
     @Override
-    boolean compareTo() {
-        return false;
+    int compareTo(ListItem item) {
+        if (item != null) {
+
+
+            return ((String) super.getValue()).compareTo((String) item.getValue());
+        }
+        return -1;
+
+
     }
 }
+
