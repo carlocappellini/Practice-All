@@ -43,17 +43,47 @@ public class Main {
 //
 //        for(String s: data){
 //            linkedList.addItem(new Node(s));
+////        }
+//        MyLinkedList list = new MyLinkedList(null);
+//        // Create a string data array to avoid typing loads of addItem instructions:
+//        String stringData = "5 7 3 9 8 2 1 0 4 6";
+//
+//        String[] data = stringData.split(" ");
+//        for (String s : data) {
+//            list.addItem(new Node(s));
 //        }
-        MyLinkedList list = new MyLinkedList(null);
-        // Create a string data array to avoid typing loads of addItem instructions:
-        String stringData = "5 7 3 9 8 2 1 0 4 6";
+//
+//        list.traverse(list.getRoot());
 
-        String[] data = stringData.split(" ");
-        for (String s : data) {
-            list.addItem(new Node(s));
-        }
+        League<Team<Soccer>> soccerLeague = new League<>("All Stars");
 
-        list.traverse(list.getRoot());
+        Team<Soccer> soccerTeam = new Team<>("Juventus");
+
+        Soccer messi = new Soccer("Messi");
+        Soccer leon = new Soccer("Leon");
+        Soccer cabral = new Soccer("Cabral");
+
+
+        soccerTeam.addPlayer(messi);
+        soccerTeam.addPlayer(leon);
+        soccerTeam.addPlayer(cabral);
+
+        soccerLeague.addTeam(soccerTeam);
+
+        League<Team<Basketball>> basketballLeague = new League<>("NBA League");
+        Team<Basketball> spurs = new Team<>("Spurs");
+
+
+        Basketball lebron = new Basketball("Lebron");
+        Basketball kobe = new Basketball("kobe");
+        Basketball shaq = new Basketball("Shaq");
+
+        spurs.addPlayer(lebron);
+        spurs.addPlayer(kobe);
+        spurs.addPlayer(shaq);
+
+basketballLeague.addTeam(spurs);
+
 
 
 

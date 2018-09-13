@@ -1,18 +1,13 @@
 package com.carlocappellini;
 
-public class Soccer {
+public class Soccer extends Jugador{
 
-    private String name;
 
-    public Soccer(String namel) {
-        this.name = namel;
+
+    public Soccer(String name) {
+        super(name);
+
     }
 
-    public String getName() {
-        return name;
-    }
 
-    public void setName(String namel) {
-        this.name = namel;
-    }
 }

@@ -1,18 +1,11 @@
 package com.carlocappellini;
 
-public class Basketball {
+public class Basketball extends Jugador{
 
-    private String name;
 
     public Basketball(String name) {
-        this.name = name;
+        super(name);
+
     }
 
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
 }
