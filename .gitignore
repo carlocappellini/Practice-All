@@ -1,1 +1,7 @@
 # Created by .ignore support plugin (hsz.mobi)
+
+*/workspace.xml
+.DS_Store
+
+src/.DS_Store
+src/com/.DS_Store
