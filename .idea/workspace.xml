@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2402ded2-ffbe-4194-b4a7-69c7854ccdbd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/carlocappellini/Jugador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/carlocappellini/Basketball.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/carlocappellini/Basketball.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/carlocappellini/League.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/carlocappellini/League.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/carlocappellini/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/carlocappellini/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/carlocappellini/Soccer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/carlocappellini/Soccer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/carlocappellini/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/carlocappellini/Team.java" afterDir="false" />
+
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,50 +13,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="League.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/carlocappellini/League.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/carlocappellini/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1230">
-              <caret line="82" column="30" lean-forward="true" selection-start-line="82" selection-start-column="30" selection-end-line="82" selection-end-column="30" />
+
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Jugador.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/carlocappellini/Jugador.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="28" lean-forward="true" selection-start-column="28" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Team.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/carlocappellini/Team.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="82" column="11" selection-start-line="82" selection-start-column="7" selection-end-line="82" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Basketball.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/carlocappellini/Basketball.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+
             </state>
           </provider>
         </entry>
@@ -77,6 +37,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/com/carlocappellini</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -97,11 +62,7 @@
         <option value="$PROJECT_DIR$/src/com/carlocappellini/Node.java" />
         <option value="$PROJECT_DIR$/src/com/carlocappellini/NodeList.java" />
         <option value="$PROJECT_DIR$/src/com/carlocappellini/MyLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/com/carlocappellini/Team.java" />
-        <option value="$PROJECT_DIR$/src/com/carlocappellini/League.java" />
-        <option value="$PROJECT_DIR$/src/com/carlocappellini/Soccer.java" />
-        <option value="$PROJECT_DIR$/src/com/carlocappellini/Basketball.java" />
-        <option value="$PROJECT_DIR$/src/com/carlocappellini/Main.java" />
+
       </list>
     </option>
   </component>
@@ -115,8 +76,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="309" />
-    <option name="y" value="48" />
+
     <option name="width" value="1280" />
     <option name="height" value="752" />
   </component>
@@ -126,6 +86,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -149,7 +110,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -157,6 +118,10 @@
     <property name="SearchEverywhereHistoryKey" value="i&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -175,7 +140,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.IsPalindrome">
+    <configuration name="ExtractWordsFromSentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.carlocappellini.ExtractWordsFromSentence" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.carlocappellini.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.carlocappellini.FizzBuzz" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.carlocappellini.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="IsPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.carlocappellini.IsPalindrome" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.carlocappellini.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.carlocappellini.Main" />
       <module name="Practice" />
@@ -183,13 +178,18 @@
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
     </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.FizzBuzz" />
+      <item itemvalue="Application.ExtractWordsFromSentence" />
+      <item itemvalue="Application.IsPalindrome" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IsPalindrome" />
+        <item itemvalue="Application.FizzBuzz" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main" />
+
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +206,6 @@
       <workItem from="1535339505118" duration="4000" />
       <workItem from="1535339518826" duration="1083000" />
       <workItem from="1536000517067" duration="6997000" />
-      <workItem from="1536806623325" duration="2446000" />
     </task>
     <task id="LOCAL-00001" summary="Interfaces Saving game objects functions">
       <created>1535340410432</created>
@@ -222,47 +221,28 @@
       <option name="project" value="LOCAL" />
       <updated>1536001489252</updated>
     </task>
-    <task id="LOCAL-00003" summary="practicing Generics">
-      <created>1536775406130</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1536775406130</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
-    <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11414000" />
+
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="642" y="0" width="638" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="16" weight="0.3293944" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32911393" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32905984" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15912762" />
+
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="16" />
+
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -284,7 +264,7 @@
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Find" order="1" />
+
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32911393" />
@@ -308,10 +288,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Interfaces Saving game objects functions" />
     <MESSAGE value="abstraction" />
-    <MESSAGE value="practicing Generics" />
-    <option name="LAST_COMMIT_MESSAGE" value="practicing Generics" />
-  </component>
-  <component name="editorHistoryManager">
+
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -350,9 +327,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="7" column="29" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -395,9 +369,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="29" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -418,9 +389,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="29" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -456,9 +424,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="7" column="29" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -486,9 +451,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="7" column="29" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -517,9 +479,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="7" column="29" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -623,10 +582,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/carlocappellini/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1230">
-          <caret line="82" column="30" lean-forward="true" selection-start-line="82" selection-start-column="30" selection-end-line="82" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
+
   </component>
 </project>
