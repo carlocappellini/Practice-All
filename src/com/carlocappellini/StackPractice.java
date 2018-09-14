@@ -42,9 +42,18 @@ public class StackPractice<E> {
     public static void main(String[] args) {
 
         Stack<Soccer> stack = new Stack<>();
+        Stack<Basketball> another = new Stack<>();
+        Basketball basketball = new Basketball("Kode");
+        another.push(basketball);
 
-        Soccer soccer = new Soccer("player");
+
+        Soccer soccer = new Soccer("maradona");
         stack.push(soccer);
+        System.out.println(stack.peek().getName());
+        Soccer james = new Soccer("james");
+        stack.push(james);
+
+        System.out.println(stack.peek().getName());
 
 
     }
