@@ -8,9 +8,9 @@ public abstract class ListItem {
     protected ListItem nextLink = null;
     protected ListItem previousLink = null;
 
-    protected Object value;
+    protected Node value;
 
-    public ListItem(Object value) {
+    public ListItem(Node value) {
         this.value = value;
     }
 
@@ -18,7 +18,7 @@ public abstract class ListItem {
         return value;
     }
 
-    public void setValue(Object value) {
+    public void setValue(Node value) {
         this.value = value;
     }
 

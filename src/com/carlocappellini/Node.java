@@ -4,7 +4,7 @@ public class Node extends ListItem {
     Node root;
 
 
-    public Node(Object value) {
+    public Node(Node value) {
         super(value);
     }
 
