@@ -6,7 +6,8 @@ import java.util.Stack;
 
 class Stacks {
 
-    Stack<String> stack;
+    private Stack<String> stack;
+    private int size;
 
 
     public Stacks() {
@@ -18,6 +19,7 @@ class Stacks {
 
         if (string != null && !stack.contains(string)) {
             stack.push(string);
+            size++;
             System.out.println(string + " was added");
             return true;
 
@@ -43,10 +45,12 @@ class Stacks {
             return false;
         } else {
             System.out.println(stack.peek() + " was deleted");
+            size--;
             stack.pop();
             return true;
 
         }
+
 
     }
 
@@ -62,6 +66,10 @@ class Stacks {
         stack.pop();
 
         stack.peek();
+        System.out.println(stack.size);
+        stack.pop();
+        stack.peek();
+        System.out.println(stack.size);
 
     }
 }
