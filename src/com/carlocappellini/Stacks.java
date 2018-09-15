@@ -11,7 +11,7 @@ class Stacks {
 
 
     public Stacks() {
-        this.stack = new Stack();
+        this.stack = new Stack<String>();
     }
 
 
